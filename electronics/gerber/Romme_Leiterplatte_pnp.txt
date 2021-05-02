@@ -1,0 +1,45 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Romme_Leiterplatte
+*Date=11:41:46
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;1k;THT;53.311;-30.7443;-90;Bottom;R3
+2;;THT;11.401;-38.3643;-90;Bottom;L2
+3;;;9.11023;-5.23352;0;Bottom;TXT1
+4;220;THT;20.291;-33.2843;180;Bottom;R9
+5;1k;THT;55.851;-30.7443;-90;Bottom;R2
+6;;THT;58.391;-14.2343;0;Bottom;T1
+7;1k;THT;45.691;-30.7443;-90;Bottom;R6
+8;;THT;11.401;-33.2843;-90;Bottom;L4
+9;;THT;11.401;-40.9043;-90;Bottom;L1
+10;;THT;53.311;-14.2343;0;Bottom;T3
+11;;THT;11.401;-30.7443;-90;Bottom;L5
+12;;THT;55.851;-14.2343;0;Bottom;T2
+13;220;THT;20.291;-28.2043;180;Bottom;R7
+14;220;THT;20.291;-38.3643;180;Bottom;R11
+15;;;34.2299;-26.9343;0;Bottom;Bauteil1
+16;220;THT;20.291;-40.9043;180;Bottom;R12
+17;;THT;50.771;-14.2343;0;Bottom;T4
+18;;THT;48.231;-14.2343;0;Bottom;T5
+19;220;THT;20.291;-35.8243;180;Bottom;R10
+20;;THT;45.691;-14.2343;0;Bottom;T6
+21;;;9.32006;-2.18852;0;Bottom;TXT2
+22;;THT;44.421;-5.34433;90;Bottom;-  +
+23;;THT;11.401;-35.8243;-90;Bottom;L3
+24;;THT;11.401;-28.2043;-90;Bottom;L6
+25;;THT;10.131;-15.5043;0;Bottom;GND
+26;220;THT;20.291;-30.7443;180;Bottom;R8
+27;1k;THT;48.231;-30.7443;-90;Bottom;R5
+28;;THT;20.291;-15.5043;0;Bottom;Piezo
+29;330;THT;58.391;-30.7443;-90;Bottom;R1
+30;1k;THT;50.771;-30.7443;-90;Bottom;R4
