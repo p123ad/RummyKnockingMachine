@@ -3,7 +3,7 @@
  
  It consists of 6 buttons, 6 leds and 1 piezo speaker connected to an Arduino Uno via a self designed Arduino Uno Shield.
  
-![RummyKnockingMachine](/doc/pics/01.jpg)
+![RummyKnockingMachine](/doc/pics/00.jpg)
 
 You can find all stls in the parts folder. They can be printed on most common 3d printers (used and stock ender 5).
 
